@@ -1,1 +1,0 @@
-This is wheremy Shell, Init files, variables, and expansions files will be.
