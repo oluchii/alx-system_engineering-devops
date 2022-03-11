@@ -2,7 +2,7 @@
 #This is a until loop bash script
 x=1
 
-until [ !$x - le 10 ]
+until [ !$x - lt 10 ]
 do
   echo "Best School"
 done
