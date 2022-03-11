@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#This is a until loop bash script
+x=1
+
+until [ !$x - le 10 ]
+do
+  echo "Best School"
+done
